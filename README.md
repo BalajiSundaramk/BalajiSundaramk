@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BalajiSundaramk
+- 👋 Hi, I’m @BalajiSundaram
 - 👀 I’m interested in programming languages
 - 🌱 I’m currently learning BTECH IT
 - 💞️ I’m looking to collaborate on ...
