@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **UI/UX design to create intuitive and engaging user experiences, enhancing my frontend development skills. Alongside this, I am expanding my expertise in the MERN Stack (MongoDB, Express.js, React, Node.js) for modern web application development, and deepening my knowledge of Java for robust backend solutions using Spring Boot.**
 
-- 👯 I’m looking to collaborate on **innovative web development projects, Java-based backend systems, and applications that integrate modern AI features to deliver intelligent user experiences.**
+- 👯 I’m looking to collaborate on **innovative web development projects, Java-based backend systems,web design and applications that integrate modern AI features to deliver intelligent user experiences.**
 
 - 🤝 I’m looking for help with **advancing my full-stack development skills, improving UI/UX design expertise, and exploring AI-powered application features.**
 
