@@ -1,22 +1,27 @@
-<h1 align="center">Hi 👋, I'm Balaji S</h1>
-<h3 align="center">Full-Stack Developer (MERN) | B.Tech IT Student @ Sri Shakthi Institute of Engineering and Technology</h3>
-<p align="center"><i>I build and ship full-stack apps end-to-end — from schema design to production deployment and debugging live infra issues.</i></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Balaji%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20MERN%20%2B%20Spring%20Boot&descAlignY=60&descSize=18" alt="header" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=balajisundaramk&label=Profile%20views&color=0e75b6&style=flat" alt="balajisundaramk" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2C9AFF&center=true&vCenter=true&width=600&lines=I+turn+%222am+this+can't+be+that+hard%22+moments+into+shipped+features.;Full-stack+dev+%7C+MERN+%2B+Spring+Boot+%2B+AI+integrations;Currently+building+TaskFlow+%E2%80%94+live+in+production." alt="typing banner" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balajisundaramk" alt="balajisundaramk" /></a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" alt="open to work" />
+  <img src="https://komarev.com/ghpvc/?username=balajisundaramk&label=Profile%20Views&color=2C9AFF&style=for-the-badge" alt="profile views" />
+</p>
 
-- 🔭 I'm currently working on **web development projects with a focus on full-stack development (Spring Boot + MERN Stack), building applications that integrate modern AI features for intelligent automation and decision-making, and real-time data processing systems with risk analysis and anomaly detection**
+---
 
-- 🌱 I'm currently learning **UI/UX design to create intuitive and engaging user experiences, enhancing my frontend development skills. Alongside this, I am expanding my expertise in the MERN Stack (MongoDB, Express.js, React, Node.js) for modern web application development, and deepening my knowledge of Java for robust backend solutions using Spring Boot.**
+### 👋 About Me
 
-- 👯 I'm looking to collaborate on **innovative web development projects, Java-based backend systems, web design, and applications that integrate modern AI features to deliver intelligent user experiences.**
+I build things that break in interesting ways at 2am — and then I fix them, ship them, and write down what I learned.
 
-- 🤝 I'm looking for help with **advancing my full-stack development skills, improving UI/UX design expertise, and exploring AI-powered application features.**
+I'm a full-stack developer working across **MERN** and **Spring Boot**, focused on applications that don't just look good in a demo but hold up when real users and real data show up. I help teams that need someone who can own a feature end-to-end: schema design, API, frontend, deployment, and the debugging that happens after deployment when things quietly go wrong in production.
 
-- 💬 Ask me about **full-stack web development, UI/UX design, Java programming, and integrating modern AI features into applications.**
+**Recent result:** built and shipped TaskFlow, a production productivity app — then hit a silent data-loss bug from Render's ephemeral filesystem, diagnosed it, and migrated the entire database to Turso cloud SQLite with zero downtime.
 
-- 📫 How to reach me: **balajisundaram2005@gmail.com**
+📩 **Let's build something** — reach me at balajisundaram2005@gmail.com or connect below.
 
 ---
 
@@ -35,26 +40,56 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/balaji-sundaram-080663292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/balaji-sundaram-080663292/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/balaji-sundaram-080663292/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:balajisundaram2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,spring,html,css,js,react,nodejs,express,mongodb,mysql,figma,git" alt="tech stack" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=balajisundaramk&show_icons=true&locale=en&layout=compact" alt="balajisundaramk" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=balajisundaramk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balajisundaramk&theme=tokyonight&hide_border=true" height="165" alt="streak" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balajisundaramk&show_icons=true&locale=en" alt="balajisundaramk" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajisundaramk&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balajisundaramk&" alt="balajisundaramk" /></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=balajisundaramk&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+</p>
+
+---
+
+### 📈 Commit Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=balajisundaramk&theme=tokyo-night&hide_border=true" alt="commit activity graph" />
+</p>
+
+<!--START_SECTION:activity-->
+<!-- Live commit log fills in here once the GitHub Action workflow is added. -->
+<!--END_SECTION:activity-->
+
+---
 
 ### 🧩 LeetCode Stats
 
+<p align="center">🗓️ Last synced: <b>02/07/2026</b> <i>(update this manually when you refresh)</i></p>
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/pcWf0qr7tM?ext=heatmap" alt="Balaji's LeetCode stats" />
+  <img src="https://leetcard.jacoblin.cool/pcWf0qr7tM?theme=dark&font=Fira%20Code&ext=heatmap" alt="Balaji's LeetCode stats" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3" alt="divider" />
 </p>
